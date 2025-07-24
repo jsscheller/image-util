@@ -1,0 +1,7 @@
+node_modules
+out
+target
+lib
+*.sublime-project
+*.sublime-workspace
+*.DS_Store
