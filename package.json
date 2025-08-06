@@ -8,6 +8,8 @@
     "type": "git",
     "url": "git+https://github.com/jsscheller/image-util.git"
   },
+  "bugs": "https://github.com/jsscheller/image-util/issues",
+  "forum": "https://github.com/jsscheller/image-util/discussions",
   "license": "MIT",
   "devDependencies": {
     "comlink": "^4.4.2",
